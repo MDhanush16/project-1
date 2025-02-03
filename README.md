@@ -3,5 +3,8 @@ The program then calculates the total runs for each team and displays a scoreboa
 After displaying the scoreboards, the program compares the total runs of the two teams to determine and display the winner. 
 If the scores are tied, it outputs a draw message. The program uses standard input/output functions to interact with the user.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/606be0a3-c2d9-457b-918a-b0a94c400534)
+
+
+
 
